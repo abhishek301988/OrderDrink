@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "386123493892",
+    "firebase_url": "https://orderdrink-f7a2a.firebaseio.com",
+    "project_id": "orderdrink-f7a2a",
+    "storage_bucket": "orderdrink-f7a2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386123493892:android:05575ae118af366f",
+        "android_client_info": {
+          "package_name": "abhishek.dev.orderdrink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386123493892-3i8p2hsrsll7htudfguq2qqoevhmme9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "abhishek.dev.orderdrink",
+            "certificate_hash": "d777b45adcc2d3f1f82d5627ca509e48b82c5f5e"
+          }
+        },
+        {
+          "client_id": "386123493892-40lfkeig1ffgfqdvfgaeon16jggj39e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Nnveg7xjBCvV2PX6lYx0Td9cdoVEZLk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386123493892-40lfkeig1ffgfqdvfgaeon16jggj39e9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
